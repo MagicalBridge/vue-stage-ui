@@ -1,6 +1,6 @@
 {
   "name": "vue-stage-ui",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "这是消费金融事业群vue组件库",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MagicalBridge/vue-stage-ui/issues"
   },
-  "homepage": "https://github.com/MagicalBridge/vue-stage-ui#readme"
+  "homepage": "https://github.com/MagicalBridge/vue-stage-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
