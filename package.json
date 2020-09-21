@@ -1,0 +1,23 @@
+{
+  "name": "vue-stage-ui",
+  "version": "1.0.0",
+  "description": "这是消费金融事业群vue组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicalBridge/vue-stage-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "vue组件库"
+  ],
+  "author": "chupengfei <chupengfeiit@gmail.com> (https://github.com/MagicalBridge)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagicalBridge/vue-stage-ui/issues"
+  },
+  "homepage": "https://github.com/MagicalBridge/vue-stage-ui#readme"
+}
